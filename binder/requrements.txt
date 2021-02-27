@@ -1,0 +1,14 @@
+tensorflow==2.0.0-rc1
+tensorflow_datasets
+numpy
+scipy
+pandas
+seaborn
+scikit-learn
+cython
+sympy
+statsmodels
+matplotlib
+yapf
+torch
+torchvision
