@@ -1,5 +1,5 @@
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/MMSLAB-TF2/tree/master/binder/HEA
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/MMSLAB-TF2/tree/master/binder/HEAD)
 
 
 # 輕鬆學會 Google TensorFlow 2.0 人工智慧深度學習實作開發 
